@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301714026157",
+    "project_id": "securityappfb-1941a",
+    "storage_bucket": "securityappfb-1941a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301714026157:android:1c0e3ac458b2810b4ea024",
+        "android_client_info": {
+          "package_name": "com.osolar.securityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-c1EuSmdzblQJ63zuCuUS9MFg7wHKcF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
